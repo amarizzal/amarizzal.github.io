@@ -1,0 +1,36 @@
+.slider h3,
+.slider h5,
+.slogan h3 {
+    text-shadow: 1px 1px 3px rgba(0, 0,0, .5);
+}
+
+.tabs .tab a{
+    color:rgb(135, 218, 172);
+} /*Black color to the text*/
+
+.tabs .tab a:hover {
+    background-color:rgb(167, 223, 201);
+    color:rgb(255, 255, 255);
+} /*Text color on hover*/
+
+.tabs .tab a.active {
+    background-color:rgb(135, 218, 172);
+    color:rgb(245, 245, 245);
+} /*Background and text color when a tab is active*/
+
+.tabs .indicator {
+    background-color:rgb(78, 182, 134);
+} /*Color of underline*/
+
+.testi_card {
+    margin-top: 20px;
+}
+
+.contact {
+    margin-top: 20px;
+}
+
+footer,section {
+    padding: 5px;
+}
+  
